@@ -1,3 +1,3 @@
 # multi-agent
 
-I'll load a video here of the orchestration by 25 Sept. 1500. It will be the exact code that is loaded. The video is already made just needs a little editing in order to follow it.
+Video: https://www.youtube.com/watch?v=b0fjj_EI-ag&ab_channel=PeterJacobs
